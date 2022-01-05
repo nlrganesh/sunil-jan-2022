@@ -1,0 +1,14 @@
+ganesh bommisetty dot net
+
+git init
+
+git add .
+
+
+
+git config --global user.name "ganesh76"
+git config --global user.email "ganeshkumar12@gmail.com"
+
+git config --global --list
+
+git commit -m "frist commit"
